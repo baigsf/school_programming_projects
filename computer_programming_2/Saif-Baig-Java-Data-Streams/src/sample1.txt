@@ -1,0 +1,10 @@
+This is a sample text file for testing.
+The quick brown fox jumps over the lazy dog.
+Java programming is fun and powerful.
+Stream API makes filtering easy and efficient.
+Data processing with streams is modern approach.
+Remember to use try-with-resources for file handling.
+Lambda expressions simplify code significantly.
+Object-oriented programming principles apply here.
+Testing is an important part of software development.
+Debugging helps find and fix errors quickly.

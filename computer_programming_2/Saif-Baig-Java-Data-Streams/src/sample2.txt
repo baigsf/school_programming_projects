@@ -1,0 +1,10 @@
+Welcome to the Java programming course.
+Learning data streams is essential for modern Java development.
+Variables in Java must be declared with a type.
+Methods define the behavior of classes.
+Inheritance allows classes to inherit properties from parent classes.
+Polymorphism enables objects to take many forms.
+Encapsulation hides implementation details from outside code.
+Interfaces define contracts for implementing classes.
+Abstract classes cannot be instantiated directly.
+Constructors initialize new objects when created.

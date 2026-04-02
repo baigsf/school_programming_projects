@@ -1,0 +1,10 @@
+Software engineering involves many phases.
+Requirements analysis identifies what the system must do.
+Design phase creates the architecture and structure.
+Implementation writes the actual code modules.
+Testing validates that the system works correctly.
+Deployment releases the system to users.
+Maintenance keeps the system running smoothly.
+Agile methodologies promote iterative development.
+Version control tracks changes to source code.
+Code reviews improve quality and share knowledge.
